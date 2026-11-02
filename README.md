@@ -1,4 +1,4 @@
-# 40kBot2
+# Administratum Lexi
 
 ## Local database
 
